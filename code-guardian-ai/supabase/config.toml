@@ -1,0 +1,10 @@
+project_id = "rbrcejedkpuafqmhsxzb"
+
+[functions.analyze-code]
+verify_jwt = false
+
+[functions.api-scan]
+verify_jwt = false
+
+[functions.github-webhook]
+verify_jwt = false
